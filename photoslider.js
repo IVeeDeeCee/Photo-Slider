@@ -1,3 +1,5 @@
+// Should move the CSS images in "image-track" to the left on mousedown + move left, doesn't at the moment. CSS code appears to be consise but correct. 
+// HTML refferences should also be good. Javascript runs by checking in console for logs.
 
 const track = document.getElementById("image-track");
 
